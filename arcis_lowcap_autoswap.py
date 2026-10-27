@@ -1,1 +1,1 @@
-PLACEHOLDER_WILL_LOAD
+see /tmp/real_files.json
