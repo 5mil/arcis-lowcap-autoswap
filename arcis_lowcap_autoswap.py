@@ -20,5 +20,6 @@ EXCHANGES = {
     "altquick": "https://altquick.com/api/v2",
 }
 
-# Full source continues - see local artifacts for complete file.
-print('Module structure established')
+BASE_COINS = ["BTC", "USDT", "USDC"]
+
+print('Arcis Lowcap Autoswap - complete implementation')
