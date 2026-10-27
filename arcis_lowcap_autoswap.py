@@ -1,1 +1,1 @@
-see /tmp/real_files.json
+PLACEHOLDER - content will be replaced
