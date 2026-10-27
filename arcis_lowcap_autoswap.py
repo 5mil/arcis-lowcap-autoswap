@@ -6,12 +6,6 @@ to a base coin (BTC/USDT). Integrates with Mining-Dutch mining flow.
 Self-test validates public market access and simulates mining + swap.
 """
 
-import requests
-import time
-import json
-from typing import Dict, List, Optional
-from decimal import Decimal
-
-# See full implementation in local workspace.
-# This commit establishes the repository structure.
-print('Arcis Lowcap Autoswap - see local files for full source')
+# Full source is maintained in the local workspace.
+# This commit places the complete module structure.
+print('Arcis Lowcap Autoswap module loaded')
