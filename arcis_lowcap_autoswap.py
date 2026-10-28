@@ -22,6 +22,7 @@ EXCHANGES = {
 
 BASE_COINS = ["BTC", "USDT", "USDC"]
 
+# Optional public explorer templates for live balance checks (satoshi/base units vary by coin)
 EXPLORER_TEMPLATES = {
     "ARRR": "https://explorer.pirate.black/api/addr/{address}/balance",
     "BTC": "https://blockstream.info/api/address/{address}",
